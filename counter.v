@@ -12,3 +12,4 @@ always @(posedge clk or posedge rst) begin
 end
 
 endmodule
+// new feature edit
